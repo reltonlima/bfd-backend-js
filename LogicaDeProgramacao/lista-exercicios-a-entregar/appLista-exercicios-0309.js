@@ -1,7 +1,7 @@
 // // Author : Relton Lima
 const AUTHOR = "Relton Lima";
 // Lista de exercícios - 03.09.2025
-// // Entregar até 10.09.2025
+// // Entregar até 06.09.2025
 
 // Escreva um programa que mostre os números de 10 até 1 em ordem decrescente
 // usando for.
