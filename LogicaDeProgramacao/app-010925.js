@@ -6,7 +6,9 @@ let soma = 0, vContador = 1;
 while (vContador <= vInput) {
     soma += vContador;
     vContador += 1;
+    if(vContador === vInput+1){
     console.log(`A soma dos números de 1 até ${vInput} é ${soma}`)
+    }
 }
 
 let myCondictionVar = 10;
